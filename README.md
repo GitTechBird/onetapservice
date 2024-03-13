@@ -1,7 +1,1 @@
-## Onetapservice
-
-Onetapservice
-
-#### License
-
-mit
+# onetapservice
